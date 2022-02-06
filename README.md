@@ -2,6 +2,6 @@
 
 📚 I am currently studying mathematics at ETH Zurich.
 
-🧑‍🚀 I like to programm in my freetime
+🧑‍🚀 I like to programm in my freetime.
 
-📝 see my [cv](cv/cv.pdf)
+📝 Click [here](cv/cv.pdf) to see my cv.
