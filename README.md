@@ -4,6 +4,6 @@
 
 🧑‍🚀 I like to programm in my freetime.
  
-💭 currently working on my startup @tostudyio
+💭 currently working on my startup [@tostudyio](https://github.com/tostudyio)
 
 📝 Click [here](cv/cv.pdf) to see my cv.
