@@ -1,4 +1,4 @@
-Hello my Name is Dominique Garmier
+Hello my name is Dominique Garmier, im 20 and from Switzerland.
 
 I am currently studying mathematics at ETH Zurich.
 
