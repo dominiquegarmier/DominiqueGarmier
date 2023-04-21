@@ -1,4 +1,4 @@
-🚀 Hello im Dominique, 21 and from Switzerland.
+🚀 Hello im Dominique, 22 and from Switzerland.
 
 📚 I am currently studying mathematics at ETH Zurich.
 
