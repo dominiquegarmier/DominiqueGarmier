@@ -1,1 +1,1 @@
-[dominiquegarmier.ch](dominiquegarmier.ch)
+[dominiquegarmier.ch](https://dominiquegarmier.ch)
